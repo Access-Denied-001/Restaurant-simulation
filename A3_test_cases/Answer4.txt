@@ -1,0 +1,5 @@
+--Started simulation--
+Exception
+Exception
+Exception
+Exception

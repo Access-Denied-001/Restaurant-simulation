@@ -1,0 +1,17 @@
+--Started simulation--
+2
+3
+0
+6
+4
+4
+6
+6
+3
+False
+True
+--End of simulation--
+12
+22
+23
+19.00
